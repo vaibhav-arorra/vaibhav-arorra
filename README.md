@@ -1,6 +1,4 @@
-<h1 align="center">Vaibhav Arorra 👨‍💻</h1>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img src="https://raw.githubusercontent.com/vaibhav-arorra/vaibhav-arorra/main/Assets/topBanner.PNG">
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaibhavarora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-arora-961784167/)](https://my.linkedin.com/in/vaibhav-arora-961784167)
 [![Protonmail Badge](https://img.shields.io/badge/vaibhavarora1999@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:vaibhavarora1999@proton.me)](mailto:vaibhavarora1999@proton.me)
