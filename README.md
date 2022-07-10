@@ -12,10 +12,10 @@
 #### I'm an Artificial Intelligence Graduate from Asia Pacific University (Kuala Lumpur, Malaysia). I have a great passion of Computer Vision and machine learning programming and mobile application development. In my future profession, I would love to develop mobile applications and picture myself working as a Flutter developer or computer vision engineer.
 -------
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/917056600099)
-- ⚡ Fun fact: I love talking about space and eating food!
-- 💬 Ping Me about #AI, #ML, #Flutter, #Python, #C++, #Tech opportunities, #Marketing and anything you like
+- 💬 Ask me whatever you wanna know!
+- 📫 To contact me, send me a message on [WhatsApp](https://wa.me/917056600099).
+- ⚡ Fun fact: I love talking about astronomy and eating food.
+- 💬 Feel free to contact me about whatever you like, including #AI, #ML, #Flutter, #Python, #C++, and any tech opportunities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-arorra&layout=compact)](https://github.com/vaibhav-arorra/github-readme-stats)
 
